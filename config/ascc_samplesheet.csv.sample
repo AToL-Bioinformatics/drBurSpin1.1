@@ -1,0 +1,4 @@
+sample,assembly_type,assembly_file
+drBurSpin1.1,PRIMARY,${PWD}/results/genomeassembly/drBurSpin1.1/drBurSpin1.1.pacbio_hifi.purged/purging/asm.purged.fa.gz
+drBurSpin1.1,HAPLO,${PWD}/results/genomeassembly/drBurSpin1.1/drBurSpin1.1.pacbio_hifi.purged/purging/asm.htigs.all.fa.gz
+drBurSpin1.1,MITO,${PWD}/results/genomeassembly/drBurSpin1.1/drBurSpin1.1.pacbio_hifi.purged/mito/final_mitogenome.fasta

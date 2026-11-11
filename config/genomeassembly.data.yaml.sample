@@ -1,0 +1,5 @@
+
+- id: drBurSpin1
+  platform: pacbio_hifi
+  reads:
+    - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-forest-pacbio-hifi-646011-m84118_260824_093325_s3.fastq.gz
